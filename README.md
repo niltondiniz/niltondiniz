@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
 <!-- Insira aqui a sua imagem que representa o seu perfil -->
-![Minha Imagem](https://img.freepik.com/fotos-gratis/mao-segurando-hashtag-simbolo_53876-63750.jpg?w=2000)
+![Minha Imagem](https://img.freepik.com/fotos-gratis/mao-segurando-hashtag-simbolo_53876-63750.jpg?w=400)
 
 ## Sobre Mim 🚀
 
@@ -19,9 +19,10 @@ Olá! Eu sou o Nilton Diniz, um entusiasta da área de Desenvolvimento de Sistem
 2. Música (Guitarra) 🎸
 3. Codar! 💻
 
-## Redes Sociais 🌐
+## Redes Sociais e Contatos 🌐
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil-do-linkedin) 💼
+- [LinkedIn](https://www.linkedin.com/in/niltondiniz86/) 💼
+- Email: niltondiniz@niltondiniz.com
 
 ## Projetos e Interesses 🛠️
 
